@@ -77,15 +77,14 @@ By implementing these recommendations, Uber can enhance its operational efficien
 4. Refer to the recommendations document (`Uber_Rides_Data_Analysis_Documentation_and_Recommendations.docx`) for detailed documentation and suggestions for improvement.
 
 #### Collaborators
-- George Youhana  - georgeyouhana2@gmail.com
-- Mohamed Hesham - moahmedemammdev@gmail.com 
+- Sari Mukthanandam - sarimukthanandam888@gmail.com
 
 Feel free to reach out to any of the collaborators for questions or further information regarding the project.
 
 #### Steps for Cloning the Project
 1. **Clone the Repository**:
    ```
-   git clone https://github.com/Geo-y20/Uber-Rides-Data-Analysis.git
+  https://github.com/mukthananadamsari/uber_anlaysis
    ```
 2. **Navigate to the Project Directory**:
    ```
